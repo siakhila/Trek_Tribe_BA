@@ -21,8 +21,11 @@ This project focuses on the database structure and SQL implementation, ensuring 
 **TrekTribe**
 
 │── /database/TT.sql       # SQL schema and queries for the database
+
 │── /docs                  # Project documentation (e.g., business rules, ERD, reports)
+
 │── README.md              # Project details and setup instructions
+
 │── LICENSE                # License information
 
 🏗️ Database Schema
